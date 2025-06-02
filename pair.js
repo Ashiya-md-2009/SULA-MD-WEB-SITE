@@ -86,7 +86,7 @@ router.get('/', async (req, res) => {
                     await SUPUNMDInc.sendMessage(userJid, { text: stringSession });
 
                     // Send confirmation message
-                    await SUPUNMDInc.sendMessage(userJid, { text: "𝐒𝐔𝐋𝐀- 𝐌𝐃  𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐒𝐔𝐂𝐂𝐄𝐒𝐅𝐔𝐋𝐋👇*\n\n*⭕ WHATSAPP CHANNEL :*\n\n> https://whatsapp.com/channel/0029Vb65iOZKwqSNKecV8V07\n\n*⭕Contact Owner :*\n\n> wa.me/94760663483\n\n\n🚫 *𝗗𝗢𝗡𝗧 𝗦𝗛𝗔𝗥𝗘 𝗬𝗢𝗨𝗥 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗜𝗗* 🚫" });
+                    await SUPUNMDInc.sendMessage(userJid, { text: "𝐀𝐒𝐇𝐈𝐘𝐀- 𝐌𝐃  𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐒𝐔𝐂𝐂𝐄𝐒𝐅𝐔𝐋𝐋👇*\n\n*⭕ WHATSAPP CHANNEL :*\n\n> https://whatsapp.com/channel/0029VbACpjVGJP8Pvuy1nC3T\n\n*⭕Contact Owner :*\n\n> wa.me/94760746437\n\n\n🚫 *𝗗𝗢𝗡𝗧 𝗦𝗛𝗔𝗥𝗘 𝗬𝗢𝗨𝗥 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗜𝗗* 🚫" });
                     
                     // Clean up session after use
                     await delay(100);
